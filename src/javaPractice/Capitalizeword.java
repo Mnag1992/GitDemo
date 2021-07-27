@@ -18,6 +18,9 @@ public class Capitalizeword {
 		System.out.println(s);
 		
 		System.out.println(s.concat("Bn"));
+		System.out.println(s.concat("Bn"));
+		System.out.println(s.concat("Bn"));
+		
 
 	}
 
